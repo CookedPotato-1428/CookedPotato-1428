@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CookedPotato-1428 🥔
 - 👀 I’m interested in ... ruling the world but now
-- am currtly interested frontend web development
-- 🌱 I’m currently learning ... reactjs(i barely have any javascript knowledge) and c++
-- who does like cooked potatoes?🙂
+- am currtly interested backend web development, no more front end.
+- 🌱 I’m currently learning ... nodejs(i barely have any javascript knowledge),c++ and rust
+- who doesn't like cooked potatoes?🙂
 
 ps(fried,dried,skined,poached,chips...CHIPS) are all cooked potatoes but chips and Fries 🍟 RULES
 
