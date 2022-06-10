@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @CookedPotato-1428 🥔
-- 👀 I’m interested in ... ruling the world but now
-- am currtly interested backend web development, no more front end.
-- 🌱 I’m currently learning ... nodejs(i barely have any javascript knowledge),c++ and rust
-- who doesn't like cooked potatoes?🙂
-
-ps(fried,dried,skined,poached,chips...CHIPS) are all cooked potatoes but chips and Fries 🍟 RULES
+- 👋 Hi, I’m CookedPotato 🥔
+- 👀 I’m interested in ...physics engine development.
+- 🌱 I’m currently learning ... c++, js ,python and rust
+- who doesn't like cooked potatoes?
 
 <!---
 CookedPotato-1428/CookedPotato-1428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
