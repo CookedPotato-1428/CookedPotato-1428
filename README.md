@@ -1,17 +1,21 @@
-- 👋 Hi, I’m CookedPotato 🥔
-- 👀 I’m interested in Web Development & machine learning & embedded systems .
+# HELLO!
+* 👋  I’m CookedPotato 🥔
+* 👀  I’m interested in Web Development & machine learning & embedded systems and also in hardware .
 * 🖥️  See my portfolio at --
-* ✉️  You can contact me at [ohyunwoods663@gmail.com](mailto:aikinslaryea@gmail.com)
-- 🌱  I'm learning [ Reactjs , nodejs/denojs , sql/mongobd ] and Rust / c++ / python 
-- 👍  I'm  interested in any open projects
-- 🥔  who doesn't like cooked potatoes ?
-<a href="https://twitter.com/cookedpotato663?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cookedpotato663</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* ✉️  You can contact me at <a href="ohyunwoods663@gmail.com">Gmail<a/>
+* 🌱  I'm learning Fullstack webdev technologies and Rust / c++ / python 
+* 👍  I'm  interested in any open projects
+* ⏱️  currently 6 months since i started my journey
+* 🥔  who doesn't like cooked potatoes ?
+
+  
+ # __SOCIALS__
+<a href="https://twitter.com/cookedpotato663?ref_src=twsrc%5Etfw" target="_blank"  rel ="nonreferrer"><img src="https://img.icons8.com/cute-clipart/344/twitter.png" width="36" height= "36"/></a>
 
 # My skills (not fully proficient)
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
