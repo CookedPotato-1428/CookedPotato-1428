@@ -38,6 +38,11 @@ I'm a curious student currently learning all the technologies i can find because
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJ5vr-gdv4AhWEs6QKHdSHA5wQFnoECCAQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAssembly_language&usg=AOvVaw27dFe5EZ8lWZMa5XIMvqZS" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-128/asm-4805682-3993259.png" width="36" height="36" alt="assembly" /></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicq6irgtv4AhUG_qQKHWKyDeYQFnoECAYQAQ&url=https%3A%2F%2Fwww.php.net%2F&usg=AOvVaw1JqmoYucRr7TaiUciQETQq" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="36" height="36" alt="php"/></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjmkoXEgtv4AhVTP-wKHUO7BF0QFnoECAUQAQ&url=https%3A%2F%2Faffinity.serif.com%2Fen-gb%2F&usg=AOvVaw2movqAaF4nqVAbk4OQnDt-" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-128/logo-104-116243.png" width="36" height="36" alt="affinity designer"/></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwig7frigtv4AhWQiqQKHbjJBWwQFnoECAUQAQ&url=https%3A%2F%2Fwww.blender.org%2F&usg=AOvVaw0nnQURGq1kymn9QmzjP3x3"><img src="https://cdn.iconscout.com/icon/free/png-128/blender-3628659-3029884.png" width="36" height="36" alt="blender" /></a>
+
                  
 ### Socials
 <p align="left">                          
