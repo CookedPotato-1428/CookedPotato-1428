@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web development and Embedded Systems
 ----------------------------------------------
 
-I'm a curious student currently learning all the technologies i can find because they are always mind blowing, and i like to learn things that blow my mind, i started my journey 6 months ago, so far, am still getting my mind blown, my main focus is web development, main backend and also embedded systems with C/C++ and Rust
+I'm a curious student currently learning all the technologies i can find because they are always mind blowing, and i like to learn things that blow my mind, i started my journey 6 months ago, so far, am still getting my mind blown, my main focus is backend web development and also embedded systems with C/C++ and Rust
 
 *   ✉️  You can contact me at [ohyunwoods663@gmail.com](mailto:ohyunwoods663@gmail.com)
-*   🧠  I'm learning Nodejs,denojs,Rust,C/C++ and python
+*   🧠  I'm learning MERN stack.
 *   🤝  I'm open to collaborating on any interesting thing i can find
 *   ⚡  who doesnt like cooked potatoes 🙂
 ### Skills<p align="left">
