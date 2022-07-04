@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cooked Potato
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cooked Potato
 ================================================================================================================================
 
 Fullstack Web development and Embedded Systems
@@ -54,3 +54,7 @@ I'm a curious student currently learning all the technologies i can find because
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookedPotato-1428&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/CookedPotato-1428/github-readme-stats)
 
+-->
+
+# Just a Tryhard 
+Trying hard to find my __life__
