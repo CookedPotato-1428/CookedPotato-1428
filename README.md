@@ -1,7 +1,7 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cooked Potato
 ================================================================================================================================
 
-Fullstack Web development and Embedded Systems
+Web development and Embedded Systems
 ----------------------------------------------
 
 I'm a curious student currently learning all the technologies i can find because they are always mind blowing, and i like to learn things that blow my mind, i started my journey 6 months ago, so far, am still getting my mind blown, my main focus is backend web development and also embedded systems with C/C++ and Rust
@@ -46,15 +46,15 @@ I'm a curious student currently learning all the technologies i can find because
                  
 ### Socials
 <p align="left">                          
-<a href="https://www.dev.to/cookedpotato1428" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/RawPotato#3856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CookedPotato-1428" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cookedpotato663" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.dev.to/potato-JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/RawPotato#3856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CookedPotato-1428" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cookedpotato663" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### <b>My GitHub Stats</b>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CookedPotato-1428&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=potato-JS&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookedPotato-1428&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/CookedPotato-1428/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato-Js&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/CookedPotato-1428/github-readme-stats)
 
 -->
 
-# Just a Tryhard 
-Trying hard to find my __life__
+# Learning 
+Trying my best :)
