@@ -56,5 +56,5 @@ I'm a curious student currently learning all the technologies i can find because
 
 -->
 
-# Learning 
-Trying my best :)
+# Vacation
+off the grid for a while
