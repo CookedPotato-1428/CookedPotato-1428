@@ -6,7 +6,7 @@ And am into Low level systems
 
 mind blowing stuff, still keep getting my mind blown 
 
-*   ✉️  You can contact me at [ohyunwoods663@gmail.com](mailto:ohyunwoods663@gmail.com)
+*   ✉️  You can contact me on [my gmail](mailto:ohyunwoods663@gmail.com)
 *   🧠  I'm learning C/C++ ,  asm and bash 
 *   ⚡  who doesnt like cooked potatoes 🙂
 ### Skills<p align="left">
