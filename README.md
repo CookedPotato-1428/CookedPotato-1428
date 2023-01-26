@@ -17,7 +17,7 @@ mind blowing stuff, still keep getting my mind blown
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJ5vr-gdv4AhWEs6QKHdSHA5wQFnoECCAQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAssembly_language&usg=AOvVaw27dFe5EZ8lWZMa5XIMvqZS" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-128/asm-4805682-3993259.png" width="36" height="36" alt="assembly" /></a>
 ######  icons are cool af
   
-### <b>Checkout my most-- and bash is like 90% woah</b>
+### <b>Checkout my most used tool</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato-c137&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/CookedPotato-1428/github-readme-stats)
 
