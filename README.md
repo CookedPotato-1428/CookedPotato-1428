@@ -1,4 +1,4 @@
-## Potato here, leave your message
+## Unixcorn here, leave your message
 
 Currently peering into mind blowing stuff, still keep getting my mind blown 
 <!--
