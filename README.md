@@ -1,4 +1,4 @@
-## potATO here, leave your message
+## potato here, leave your message
 
 Currently peering into mind blowing stuff, still keep getting my mind blown 
 <!--
